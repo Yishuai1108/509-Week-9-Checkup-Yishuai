@@ -1,9 +1,9 @@
 # Code
 
+```
 Print the Tic Tac Toe board.
-'
 Make the layout of board
-'
+
 Check if there's a winner or a draw
 '
 Check rows and columns
@@ -29,7 +29,7 @@ Install package
 Create requirements.txt file
 '
 Freeze requirements.txt file
-'
+
 add the file to Github (add, commit, push)
-'
+
 Check your file on Github
